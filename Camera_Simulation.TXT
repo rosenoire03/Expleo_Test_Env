@@ -1,0 +1,1 @@
+camera_target_1_simulation () { //fonction OK}
