@@ -1,0 +1,1 @@
+diag_writing () { //fonction OK }
