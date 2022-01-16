@@ -1,1 +1,3 @@
 diag_reading () { //fonction OK }
+wait(750ms)
+
